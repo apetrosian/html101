@@ -10,9 +10,8 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 ### Test code
 
-HTML
-
-``` html
+#### HTML
+```html
 <!DOCTYPE html>
 
 <html>
@@ -26,10 +25,17 @@ HTML
 </html>
 ```
 
+#### CSS
 
+```css
+.app {
+  padding: 1em;
+}
+```
 
-``` javascript
+#### JavaScript
 
+```javascript
 var foo, bar;
 
 function sum(a,b) {
