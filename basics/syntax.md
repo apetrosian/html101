@@ -3,13 +3,8 @@
 
 Let's take a closer look at following paragraph element.
 
-![](anatomy-of-an-html-element.png)
 
-
-```html
-<p>Hello world!</p>
-```
-
+![](html-element.png)
 
 **Opening tag**: This consists of the name of the element (in this case, `p`), wrapped in opening and closing angle brackets. This states where the element begins, or starts to take effect (in this case where the start of the paragraph is).
 
