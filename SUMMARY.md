@@ -5,4 +5,5 @@
    * Syntax
    * Block vs Inline elements
    * Attributes
+   * Anatomy of an HTML document
 
