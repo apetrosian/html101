@@ -1,6 +1,4 @@
 # Summary
 
 * [Introduction](README.md)
-* [1. Basics](1-basics/basics.md)
-   * [1.1 Standards](1-basics/1-1-standards.md)
 
