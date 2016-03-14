@@ -19,15 +19,10 @@ Let's take a closer look at following paragraph element.
 
 ## Nesting elements
 
-It is possible to put elements inside other elements.
+It is possible to put elements inside other elements. Following example shows how we can use nested tags:
 
-```
+```html
 <p>My text is so <i>italic</i> today</p>
 ```
 
-Will result:
-
-My text is so *italic* today
-
-
-
+However, you need to make sure, that your elements are properly nested. In the example above we opened the `<p>` element first, then the `<i>` element, therefore we have to close the `<i>` element first, then the `<p>`.
