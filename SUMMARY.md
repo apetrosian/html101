@@ -1,4 +1,6 @@
 # Summary
 
-* [Basics](basics.md)
+* [Introduction](README.md)
+* [Basics](basics.md/Basics)
 * [Layout](layout.md)
+
