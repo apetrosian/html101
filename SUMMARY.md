@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Basics](basics/basics.md)
-   * Standards
+   * [Standards](basics/standards.md)
 
