@@ -1,5 +1,6 @@
 # Syntax
-
+ 
+## HTML Element
 
 Let's take a closer look at following paragraph element.
 
@@ -14,4 +15,19 @@ Let's take a closer look at following paragraph element.
 **Content**: This is the content of the element, which in this case is just text.
 
 **Element**: The opening tag, plus the closing tag, plus the content, equals the element.
+
+
+## Nesting elements
+
+It is possible to put elements inside other elements.
+
+```
+<p>My text is so <i>italic</i> today</p>
+```
+
+Will result:
+
+My text is so *italic* today
+
+
 
