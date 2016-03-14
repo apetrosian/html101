@@ -1,4 +1,4 @@
 # Summary
 
-* [Standards](1-basics/standarts.md)
+* [Standards](1-basics/1-1-standarts.md)
 
