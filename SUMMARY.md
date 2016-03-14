@@ -1,4 +1,4 @@
 # Summary
 
-* [Basics](chapter1.md)
+* [Basics](basics.md)
 * [Layout](layout.md)
