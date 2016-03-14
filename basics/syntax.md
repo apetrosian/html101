@@ -4,7 +4,6 @@
 Let's take a closer look at following paragraph element.
 
 
-![](html-element.png)
 
 **Opening tag**: This consists of the name of the element (in this case, `p`), wrapped in opening and closing angle brackets. This states where the element begins, or starts to take effect (in this case where the start of the paragraph is).
 
