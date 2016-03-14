@@ -18,7 +18,7 @@ It is a **markup language**, used to tell your browser how to structure the web 
   * Tables
 
 
-HTML elements are delineated by tags, written using angle brackets.
+HTML elements are wrapped by tags, written using angle brackets.
 
 ```html
 <p>I'm awesome!</p>
