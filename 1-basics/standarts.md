@@ -1,1 +1,1 @@
-#Standarts
+#Standards
