@@ -8,5 +8,5 @@
    * [Attributes](basics/04_attributes.md)
    * [Anatomy of an HTML document](basics/05_anatomy_of_an_html_document.md)
    * [Special Characters](basics/06_special_characters.md)
-   * [HTML Comments](basics/07_html_comments)
-   * [Assessment 1](basics/assessment_1)
+   * [HTML Comments](basics/07_html_comments.md)
+   * [Assessment 1](basics/assessment_1.md)
