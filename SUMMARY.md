@@ -10,7 +10,7 @@
    * [Special Characters](basics/06_special_characters.md)
    * [HTML Comments](basics/07_html_comments.md)
    * [Assessment 1](basics/assessment_1.md)
-* [CSS](css/css.md)
+* [CSS](css/_css.md)
   * [CSS specificity](css/css.md)
   * [Box model](css/css.md)
   * [Animation](css/css.md)
