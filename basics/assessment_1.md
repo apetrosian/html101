@@ -1,14 +1,25 @@
 # Assessment 1
 
-## Starting point
+## HTML Basics
 
-Clone the following git repository; [basic-html](github)
+**Starting point**
 
+1. Create github repo for your site and clone it to local folder.
 
-## Project brief
+2. After you complete your site, push changes to github.
 
-Create your own homepage.
+3. Publish your website to github pages.
 
+4. Validate your website using [W3C validation service](https://validator.w3.org).
 
-## Hints and tips
-...
+**Project brief**
+
+Create your own homepage using different HTML elements.
+
+**Hints and tips**
+
+- Use different types of elements (block and inline) in a proper way.
+- Use header elements (`<h1>`, `<h2>`, etc...) for titles.
+- Use image element (`<img>`) to embed your **photo** or any pictures you like.
+- Use lists (`<ul><li></li></ul>`) to display some enumerated items, e. g. your past project, skills or hobbies.
+- Use hyperlink element (`<a>`) to share your other web presence, e. g. linkedin, stackoverflow, twitter or facebook.
