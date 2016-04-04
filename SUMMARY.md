@@ -13,7 +13,7 @@
 * [CSS](css/_css.md)
   * [Specificity](css/01_specificity.md)
   * [Inheritance](css/02_inheritance.md)
-  * [Box model](css/03_css_box_model.md)
+  * [Box model](css/03_box_model.md)
   * [Animation](css/04_animation.md)
   * [Adaptive layout](css/05_adaptive_layout.md)
   * [Assessment 2](css/assessment_2.md)
