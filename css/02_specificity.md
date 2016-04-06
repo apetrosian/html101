@@ -29,7 +29,7 @@ The following list of selector types is by increasing specificity:
 
 Universal selector `*`, combinators (`+`, `>`, `~`) and negation pseudo-class `:not()` have no effect on specificity. (The selectors declared inside `:not()` do, however.)
 
-`Inline styles` added to an element always overwrite any styles in external stylesheets and thus can be thought of as having the highest specificity.
+**Inline styles** added to an element always overwrite any styles in external stylesheets and thus can be thought of as having the highest specificity.
 
 
 ### The !important exception
