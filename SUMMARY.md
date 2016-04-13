@@ -18,7 +18,7 @@
   * [Box model](02_css/05_box_model.md)
   * [Layout](02_css/06_layout.md)
   * [Assessment 2](02_css/assessment_2.md)
-* [Performance optimization](02_performance/_performance.md)
+* [Performance optimization](03_performance/_performance.md)
   * [Page Loading](03_performance/01_page_loading.md)
   * [Rendering Optimization](03_performance/02_rendering_optimization.md)
   * [Image Optimization](03_performance/03_image_optimization.md)
