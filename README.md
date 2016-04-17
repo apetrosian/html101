@@ -13,3 +13,4 @@ After completing this book, you will be able to:
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [World Wide Web Consortium (W3C)](https://www.w3.org)
 - [Google Developers: Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)

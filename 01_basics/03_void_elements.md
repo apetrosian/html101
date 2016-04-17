@@ -5,5 +5,5 @@ Not all elements follow the above pattern of opening tag, content, closing tag. 
 For example, the `<img>` element inserts an image onto a page in the position it is included in:
 
 ```html
-<img src="sample_image.png"/>
+<img src="sample_image.png">
 ```
