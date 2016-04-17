@@ -30,7 +30,7 @@ Defined within the `<style>` element, inside the `<head>` section.
 ```html
 <head>
   <style>
-    .text-red {
+    .label-error {
       color: red;
     }
   </style>

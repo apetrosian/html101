@@ -25,8 +25,8 @@ CSS allows this by associating conditions with declarations blocks. Each (valid)
 
 ```css
 div, p {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 ```
 
