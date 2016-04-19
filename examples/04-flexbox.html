@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta charset="utf-8">
+    <title>HTML101: Example of fixed layout</title>
+    <style>
+
+      header.main {
+        background-color: #ddd;
+      }
+
+      h1 {
+        padding: 25px;
+      }
+
+      .container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+      }
+
+      nav {
+        background-color: #ddd;
+        padding: 25px;
+        flex-grow: 1;
+      }
+
+      nav ul {
+        width: 200px;
+      }
+
+      .content {
+        flex-basis: 60%;
+        flex-grow: 1;
+        background-color: #eee;
+      }
+
+      .content article {
+        padding: 25px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <header class="main">
+      <h1>My Layout Example</h1>
+    </header>
+    <div class="container">
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="content">
+        <article>
+          <header>
+            <h2>CSS is Awesome!</h2>
+          </header>
+          <section>
+            <p>
+              Cascading Style Sheets (CSS) is a style sheet language used for
+              describing the presentation of a document written
+              in a markup language.
+            </p>
+          </section>
+          <footer>
+            <p>
+              Posted on <time datetime="2016-02-02 12:00">Jan 02</time> by Artem.
+            </p>
+          </footer>
+        </article>
+        <article>
+          <header>
+            <h2>CSS is Awesome!</h2>
+          </header>
+          <section>
+            <p>
+              Cascading Style Sheets (CSS) is a style sheet language used for
+              describing the presentation of a document written
+              in a markup language.
+            </p>
+          </section>
+          <footer>
+            <p>
+              Posted on <time datetime="2016-02-02 12:00">Jan 02</time> by Artem.
+            </p>
+          </footer>
+        </article>
+        <article>
+          <header>
+            <h2>CSS is Awesome!</h2>
+          </header>
+          <section>
+            <p>
+              Cascading Style Sheets (CSS) is a style sheet language used for
+              describing the presentation of a document written
+              in a markup language.
+            </p>
+          </section>
+          <footer>
+            <p>
+              Posted on <time datetime="2016-02-02 12:00">Jan 02</time> by Artem.
+            </p>
+          </footer>
+        </article>
+      </div>
+    </div>
+  </body>
+</html>
