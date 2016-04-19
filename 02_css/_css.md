@@ -19,7 +19,7 @@ Included as an external file using `<link>` element inside the `<head>` section.
 
 ```html
 <head>
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="style.css">
 </head>
 ```
 

@@ -14,8 +14,8 @@ One of the common use cases for this selectors is to reset default browser speci
 
 ```css
   html, body {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
   }
 ```
 
