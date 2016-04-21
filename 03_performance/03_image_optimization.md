@@ -2,7 +2,7 @@
 
 Images may be the largest part of your page content.
 
-![HTML Element](img/page-content-by-type.png)
+![Page content](img/page-content-by-type.png)
 
 ## Optimize your content
 

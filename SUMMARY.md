@@ -20,7 +20,7 @@
   * [Assessment 2](02_css/assessment_2.md)
 * [Performance optimization](03_performance/_performance.md)
   * [Page Loading](03_performance/01_page_loading.md)
-  * [Rendering Optimization](03_performance/02_rendering_optimization.md)
+  * [Rendering](03_performance/02_rendering.md)
   * [Image Optimization](03_performance/03_image_optimization.md)
   * [Assessment 3]()
 * [Introduction to Layout Frameworks](04_frameworks/_frameworks.md)
