@@ -39,9 +39,11 @@ Images may be the largest part of your page content.
 
 - Start by selecting the right universal format: GIF, PNG, JPEG
 - Experiment and select the best settings for each format: quality, palette size, etc.
+- Consider adding WebP assets for modern clients
 
 | Format | Transparency | Animation | Browser |
 | --- | --- | --- | --- |
 | GIF | Yes | Yes | All |
 | PNG |	Yes |	No | All |
 | JPEG | No | No | All |
+| WebP | Yes | Yes | Chrome, Opera, Android |
