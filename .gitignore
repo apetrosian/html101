@@ -14,3 +14,6 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# system
+.DS_Store
