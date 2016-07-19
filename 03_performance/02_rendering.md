@@ -8,7 +8,7 @@ Before the browser can render the page it needs to construct the DOM and CSSOM t
 
 1. **Conversion**: the browser reads the raw bytes of the HTML off the disk or network and translates them to individual characters based on specified encoding of the file (e.g. UTF-8).
 
-2. **Tokenizing**: the browser converts strings of characters into distinct tokens specified by the W3C HTML5 standard - e.g. '<html>', '<body>'' and other strings within the “angle brackets”. Each token has a special meaning and a set of rules.
+2. **Tokenizing**: the browser converts strings of characters into distinct tokens specified by the W3C HTML5 standard - e.g. `<html>`, `<body>` and other strings within the “angle brackets”. Each token has a special meaning and a set of rules.
 
 3. **Lexing**: the emitted tokens are converted into “objects” which define their properties and rules.
 
